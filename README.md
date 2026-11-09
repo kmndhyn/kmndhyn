@@ -18,9 +18,7 @@
 
 ## 🔧 What I work with
 - **Stack:** Full-stack web, AI/LLM integrations, automation pipelines
-- **Infra:** Self-hosted (RPi4, Tailscale, NAS, local models)
 - **Tools:** Hermes Agent, n8n, Python, Node
-- **Currently:** Lead Developer @ PulseAI Solutions (Sep–Dec 2025)
 
 ## 📜 Certs
 - Google AI Professional Certificate (Jun 2026)
@@ -28,8 +26,6 @@
 - Project Management 101 (Mar 2026)
 
 ## 🚀 Featured
-- [angel4cs](https://github.com/kmndhyn/angel4cs) — personal project site
-- [verified-lead-gen](https://github.com/kmndhyn/verified-lead-gen) — lead enrichment + email verification automation
 
 ## 📫 Contact
 - 📧 contact.kmndhyn@gmail.com
