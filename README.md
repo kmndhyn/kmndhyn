@@ -1,6 +1,6 @@
 # Hi, I'm Kim 👋
 
-**BS IT @ Treston International College** (grad 2027) · Full-Stack Dev · AI & Automation
+**BS IT @ Treston International College** (grad 2027)  · AI & Automation
 
 [![GitHub followers](https://img.shields.io/github/followers/kmndhyn?style=social)](https://github.com/kmndhyn)
 [![GitHub stars](https://img.shields.io/github/stars/kmndhyn?style=social)](https://github.com/kmndhyn)
